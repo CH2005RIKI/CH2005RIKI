@@ -1,7 +1,7 @@
 ### Olá! eu sou o RIKI ⛓️
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1099722466315735122) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() 
 
 ## 💻Tech Skills
 <div>
